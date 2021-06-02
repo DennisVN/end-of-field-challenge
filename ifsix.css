@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+* {
+    box-sizing: border-box;
+  }
+
+body {
+    background-color: rgb(253, 253, 253);
+    color: #2b4c52 ; /*tekst kleur */
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+}
+
+.wrapper {
+    background-color: white;
+    height: 330;
+    width: 566px;
+    padding-left: 33px;
+
+}
+
+.row {
+    background-color: rgb(255, 255, 255);
+    height: 330;
+    width: 566px;
+}
+
+input {
+    width: 500px;
+    height: 40px;
+}
+
+h1 { /*OPMAAK HEADER */
+    background: rgb(255, 255, 255);
+    font-size: 3rem;
+    font-weight: 200;
+}
+
+h3 {
+    vertical-align: text-top;
+    justify-content: content-box;
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+button {
+    text-align: center;
+    background: #2b4c52 ;
+    border: none; 
+    width: 500px; /*breedte van de knop*/
+    height: 50px; /* zelfde breedte als input field */ 
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 1rem;
+}
+
+.test {
+    padding-bottom: 20px;
+}
+
+label {
+    font-weight: normal;
+}
