@@ -1,3 +1,18 @@
 body {
-    background-color: red;
+    text-align: center;
+}
+
+.row {
+    background-color: rgb(255, 255, 255);
+    height: 330;
+    width: 566px;
+}
+
+input  {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    justify-content: left;
 }
