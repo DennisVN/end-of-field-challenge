@@ -15,6 +15,17 @@ h2 {
     padding-top: 15px;
 }
 
+.button {
+    background-color: transparent; 
+    color: rgb(255, 255, 255); 
+    border: 1px solid #ffffff;
+    width: 200px;
+    height: 44px;
+    border-radius: 3px;
+    letter-spacing: 1.2px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
 
 /*background-color:#3b2795 ; legit kleur */
 
