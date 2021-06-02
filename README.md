@@ -1,5 +1,6 @@
 ## end-of-field-challenge
 In solo mode, recreate 2/3 given images, using only CSS HTML & SASS. No framework allowed, RIP. 
+Have a peep at https://thirsty-booth-3bf43f.netlify.app/
 
 ## Motivation
 Figure out how far we are in applying our gathered knowledge regarding front-end languages CSS HTML and SASS. DISCLAIMER: i did NOT use SASS.
