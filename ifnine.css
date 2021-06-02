@@ -1,43 +1,44 @@
 body {
     font-family: 'Work Sans', sans-serif;
-    box-sizing: border-box;
     background-color: rgb(207, 207, 207);
     width: 425px;
     height: 346px;
     color: #000000;
-    display: grid;
-    justify-content: center;
+}
+/*OPMAAK*/
+
+h1 {
+    font-size: 36px;
 }
 
-.container { /*container rond kaart */
-    border: 10px;
-    border-color: #1c1c1c;
-    border-style: solid;
-    display: grid;
-    display: grid;
-    justify-content: center;
-}
-.wrapper { /*volledie inhoud container*/
-    width: 425px;
-    height: 346px;
-    border-radius: 10px;
-    display: grid;
-    justify-content: center;
+h2 {
+    padding-top: 15px;
 }
 
-.row { /*volledige inhoud binnen row */
+
+/*background-color:#3b2795 ; legit kleur */
+
+.outer {
+    background-color: black;
+    padding: 15px;
+}
+
+.inner {
+    color: #381cb8fa;
     border-style: solid;
-    background-color: #3b2795;
+    border-radius: 5px;
+}
+
+.transparent {
+    background-color:#381cb8fa ;
+    padding: 30px;
     color: white;
-    display: grid;
-    justify-content: center;
 }
 
-button {
-    background-color: transparent; 
-    color: rgb(255, 255, 255); 
-    border: 2px solid #ffffff;
-    display: grid;
-    justify-content: center;
+.negendemaand {
+    display: flex;
+}
 
+.negen {
+    margin-bottom:-40px;
 }
