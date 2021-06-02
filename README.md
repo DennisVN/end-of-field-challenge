@@ -5,7 +5,12 @@ In solo mode, recreate 2/3 given images, using only CSS HTML & SASS. No framewor
 Figure out how far we are in applying our gathered knowledge regarding front-end languages CSS HTML and SASS. DISCLAIMER: i did NOT use SASS.
  
 ## Screenshots
-invoegen
+below you find the screenshots of the index.html page, presenting the 2 created cards. Index layout seems silly and unnecessary, and you're right. Learning should be fun tho, amirite ?
+
+![screenshot0](https://user-images.githubusercontent.com/78357110/120497283-8eaf7c80-c3be-11eb-893c-3f2f359b45c6.png)
+![screenshot1](https://user-images.githubusercontent.com/78357110/120497304-93743080-c3be-11eb-93e3-1396000fe78f.png)
+![screenshot2](https://user-images.githubusercontent.com/78357110/120497322-966f2100-c3be-11eb-9493-d1ce5ee33480.png)
+
 
 ## Tech/framework used
 
