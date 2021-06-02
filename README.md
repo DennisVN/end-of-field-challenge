@@ -48,4 +48,4 @@ Credits to my yoda Bert Heymans, the Verou 2 Gang and the complete BeCode staff.
 Don't understimate simplicity. Don't be affraid to delete your project if your stuck. Starting over again and simplifying my approach helped me completing before the deadline. 
 
 ## License
-Dennis van Nieuwenhuyse and the BeCode Verou 2 gang ! 
+&copy Dennis van Nieuwenhuyse and the BeCode Verou 2 gang ! 
