@@ -57,3 +57,7 @@ button {
 .test {
     padding-bottom: 20px;
 }
+
+label {
+    font-weight: 350;
+}
